@@ -33,5 +33,6 @@
 * Built without external dependencies (pure Flutter, no shadcn_ui package required)
 * Comprehensive example app demonstrating all features
 * Full documentation with usage examples
+* Demo GIF showcasing dialog features
 * ✅ All tests passing
 * ✅ Flutter analyze: No issues found
