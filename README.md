@@ -346,7 +346,7 @@ flutter run
 
 ## Screenshots
 
-Coming soon...
+![Demo](demo.gif)
 
 ## Contributing
 
