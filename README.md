@@ -5,6 +5,8 @@ A modern, beautiful, and compact dialog system for Flutter with **shadcn/ui insp
 [![pub package](https://img.shields.io/pub/v/compact_dialog.svg)](https://pub.dev/packages/compact_dialog)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+**[🚀 Try Live Demo](https://caqil.github.io/compact_dialog/)**
+
 ## ✨ Features
 
 ### 🎨 shadcn/ui Design System
@@ -337,7 +339,9 @@ MaterialApp(
 
 Check out the [example](example/) directory for a complete demo app showcasing all dialog types.
 
-To run the example:
+**[🌐 View Live Demo](https://caqil.github.io/compact_dialog/)** - Try all dialog types directly in your browser!
+
+To run the example locally:
 
 ```bash
 cd example
